@@ -1,5 +1,9 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(254, 255, 255);
+}
+
+.christmas {
+    box-shadow: 7px 7px 8px rgba(7, 7, 20, 0.877)
 }
